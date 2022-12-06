@@ -21,22 +21,20 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.27 GPA
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
-
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`March 2020 - Present`
+__CaptionCall__, Meridian, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+Leveraged voice-to-text technology to transcribe customers’ phone calls, giving customers the ability to read 
+their conversations in real-time. The service I provide has given many individuals the capability to have phone 
+conversations, even though they cannot hear well.
+
+- Provided exceptional customer service by achieving a 92% or greater transcription accuracy on all 
+performance reviews each month for the past year
+- Achieved a schedule adherence of 98% for my tenure with CaptionCall
 
 ### Data Science Lead
 
