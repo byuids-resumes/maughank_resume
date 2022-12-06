@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Karson Maughan's Resume
 ---
-# Brigham Young
+# Karson Maughan
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
@@ -16,10 +16,10 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+` (expected) July 2023`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- 3.27 GPA
 
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
