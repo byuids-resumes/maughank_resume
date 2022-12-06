@@ -3,7 +3,7 @@ layout: cv
 title: Karson Maughan's Resume
 ---
 # Karson Maughan
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+A senior at BYU-Idaho pursing a Bachelor's of Science in Accounting. 
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
