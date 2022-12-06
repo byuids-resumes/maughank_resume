@@ -36,14 +36,16 @@ conversations, even though they cannot hear well.
 performance reviews each month for the past year
 - Achieved a schedule adherence of 98% for my tenure with CaptionCall
 
-### Data Science Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`June 2019 - September 2019`
+__Express Appliance__, Boise, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+Cleaned and restored all used appliances to a like-new condition for resale, as well as managed floor and 
+warehouse inventory for a local business.Other responsibilities included providing exceptional customer service 
+through in-home deliveries and removals and transferring appliances from the warehouse to the showroom.
+
+- Achieved a year-over-year sales growth of 13% for the summer months of 2019 through the sale of all
+the appliances that were cleaned and restored
 
 `September 2027 - April 2028`
 __Good2Go__, Consultant
