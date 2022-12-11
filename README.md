@@ -1,1 +1,1 @@
-# This is my repo where I will store my resume. 
+# Resume is in docs folder, index.md. 
